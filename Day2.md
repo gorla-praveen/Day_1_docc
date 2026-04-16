@@ -1,4 +1,4 @@
-# Day_2
+# Day_2 Installed WordPress and XAMPP server(local host)
 # Objective
 - To set up a local hosting environment using XAMPP and successfully install and run a WordPress website, along with demonstrating the output.
 # Task 1:-Core Concepts
