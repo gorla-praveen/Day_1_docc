@@ -32,7 +32,7 @@ Steps:
 ##  Step 2: Setup WordPress
   - Download WordPress
   -  Extract files
-  -  Place in C:\xampp\htdocs\project
+  -  Place in C:\xampp\htdocs\praveen
 ##  Step 3: Configure Database
    -  Open http://localhost/phpmyadmin    
   - Create database: wp_admin
