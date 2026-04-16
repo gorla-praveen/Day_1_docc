@@ -35,7 +35,7 @@ Steps:
   -  Place in C:\xampp\htdocs\project
 ##  Step 3: Configure Database
    -  Open http://localhost/phpmyadmin    
-  - Create database: wp_project
+  - Create database: wp_admin
 
 # Task 3: Customize UI / Settings
 
