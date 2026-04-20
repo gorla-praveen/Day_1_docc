@@ -24,7 +24,7 @@ Plugins add extra features to your website.
 - SEO Plugin
 #### Steps to Install Plugin
 1. Go to Plugins → Add New
-2. Search "on click demo import"
+2. Search "one click demo import"
 3. Click Install Now
 4. Click Activate
 Plugin Installed Successfully
@@ -39,7 +39,7 @@ Plugin Installed Successfully
 4. Change Fonts
 5. Click Publish
 ### Configure Plugin
-Example: on click demo import
+Example: one click demo import
 1. Go to plugin 
 2. import data
 3. save and import
