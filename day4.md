@@ -101,7 +101,7 @@ Media is used to upload images, videos, documents.
 #### my first blog output
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a833dad0-63ee-4be9-995e-210e828fd578" />
 
-###  post with media output
+####  post with media output
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8770bb7-d6dd-4b18-a80f-e706aba7739c" />
 
