@@ -26,7 +26,6 @@ Key features include:
 - Display title, author, and content
 - Search functionality
 - Categories or tags
-- Pagination for multiple posts
 
 Optional features:
 - Comment section
