@@ -1,4 +1,4 @@
-# WordPress Assignment- Blog Website
+# WordPress Assignment –Blog Website
 ##  Introduction
 A blog website is a platform used to publish articles, tutorials, news, and personal content.  
 It allows users to create, manage, and display posts in an organized manner.  
