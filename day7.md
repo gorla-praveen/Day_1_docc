@@ -1,8 +1,8 @@
-# 📘 WordPress Learning – Review and Assessment
+#  WordPress Learning – Review and Assessment
 
 
 
-## ✅ Step 1: Understanding WordPress Basics
+##  Step 1: Understanding WordPress Basics
 Learned the core concepts of WordPress as a Content Management System (CMS).
 
 - What is WordPress and how it works
@@ -12,7 +12,7 @@ Learned the core concepts of WordPress as a Content Management System (CMS).
 
 ---
 
-## ⚙️ Step 2: Setting Up WordPress
+##  Step 2: Setting Up WordPress
 Configured and prepared a working WordPress website.
 
 - Installed WordPress (local/server)
@@ -22,7 +22,7 @@ Configured and prepared a working WordPress website.
 
 ---
 
-## 🎨 Step 3: Customizing Website Design
+##  Step 3: Customizing Website Design
 Improved the look and feel of the website.
 
 - Customized themes (colors, fonts, layout)
@@ -32,7 +32,7 @@ Improved the look and feel of the website.
 
 ---
 
-## 🐞 Step 4: Testing and Optimization
+##  Step 4: Testing and Optimization
 Ensured the website works properly and efficiently.
 
 - Tested all pages and links
@@ -42,7 +42,7 @@ Ensured the website works properly and efficiently.
 
 ---
 
-## 📄 Step 5: Documentation and Final Output
+##  Step 5: Documentation and Final Output
 Documented the process and reviewed the final result.
 
 - Recorded all setup and customization steps
