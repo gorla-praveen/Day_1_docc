@@ -102,8 +102,10 @@ Elementor is a drag-and-drop page builder used to design WordPress websites visu
 - Mobile responsive design
 - Easy to edit and maintain
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3f0f9424-49ff-42d0-b8cc-8ddb7ccdfb20" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/32239ad9-c45a-4189-9213-d8e78a68b09a" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0c6f4d0d-f25a-40c3-b79d-bdfb4becece2" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/86403078-54b5-4a61-bef6-7fda51634f4e" />
+
 
 
 
