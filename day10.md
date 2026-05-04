@@ -106,3 +106,5 @@ This business website provides a complete foundation for:
 - Service promotion
 
   <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ebf22a4e-0445-4f0e-bbb1-d28815c641fa" />
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/86a70d13-7bc6-46ce-b6f4-9ff7e688d4f6" />
+
